@@ -63,7 +63,7 @@ function Header() {
             alt="Profile"
           />
         </div>
-      </div>
+      </div>    
     </div>
   );
 }   
